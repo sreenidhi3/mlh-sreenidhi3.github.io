@@ -1,20 +1,19 @@
-- title: Social Good!
-  event: MLH Fellowship Explorer Sprint 5
-  date: Fall 2020 - Batch 1
+- title: Xpense-App
+  event: A simple Web Application that can help keep track of your expenses.
+  date: April, 2020
 
-- title: Developer Tools!
-  event: MLH Fellowship Explorer Sprint 4
-  date: Fall 2020 - Batch 1
+- title:  Emojipedia 
+  event: A React App made with codesandbox.io, that helps to understand the meanings of various emojis.
+  date: December, 2020
 
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3
-  date: Fall 2020 - Batch 1
+- title: Minion Speaks
+  event: A web app made using VanillaJS and Minion funTranslations API- which converts basic english words to the Minion language.
+  date: December, 2020
 
-- title: Fun Game
-  event: MLH Fellowship Explorer Sprint 2
-  date: Fall 2020 - Batch 1
+- title: GoodReads
+  event: A React App made with codesandbox.io, for book recommendations in various genres.
+  date: December, 2020
 
-- title: Flash Card Generator
-  event: MLH Fellowship Explorer Sprint 1
-  date: Fall 2020 - Batch 1
-  page-name: sprint1
+- title: Portfolio
+  event: Portfolio website to showcase my projects for neogcamp
+  date: December, 2020
